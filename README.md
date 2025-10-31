@@ -25,10 +25,8 @@ wget https://github.com/bleon-ethical/pentscan/releases/latest/download/pentscan
 sudo dpkg -i pentscan-elite_amd64.deb
 sudo apt --fix-broken install
 ```bash
-
-### **Opción 2: Paquete APPIMAGE (En general)**
-```bash
+---
+Opción 2: Paquete APPIMAGE
 wget https://github.com/bleon-ethical/pentscan/releases/latest/download/PentScan-x86_64.AppImage
 chmod +x PentScan-x86_64.AppImage
 ./PentScan-x86_64.AppImage
-```bash
