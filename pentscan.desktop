@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=pentscan
+Comment=Suite avanzada de pentesting para Kali y Parrot
+Exec=sudo /usr/bin/pentscan
+Icon=/usr/share/icons/hicolor/512x512/apps/pentscan.png
+Terminal=false
+StartupNotify=true
+Categories=Utility;Security;
+Keywords=pentest;scan;network;security;vulnerability;cve;ad;api;
+StartupWMClass=pentscan
