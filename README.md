@@ -24,9 +24,11 @@ Escaneo de red, detección de CVEs, enumeración de Active Directory, claves API
 wget https://github.com/bleon-ethical/pentscan/releases/latest/download/pentscan_amd64.deb
 sudo dpkg -i pentscan-elite_amd64.deb
 sudo apt --fix-broken install
+```bash
 
 ### **Opción 2: Paquete APPIMAGE (En general)**
 ```bash
-wget https://github.com/bleon-ethical/pentscan/releases/latest/download/PentScanElite-x86_64.AppImage
+wget https://github.com/bleon-ethical/pentscan/releases/latest/download/PentScan-x86_64.AppImage
 chmod +x PentScan-x86_64.AppImage
 ./PentScan-x86_64.AppImage
+```bash
