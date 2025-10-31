@@ -1,4 +1,4 @@
-# 🔍 PentScan Elite
+# 🔍 PentScan
 
 **Suite avanzada de pentesting para Kali Linux y Parrot OS**  
 Escaneo de red, detección de CVEs, enumeración de Active Directory, claves API expuestas y generación de reportes PDF — todo en una interfaz gráfica moderna.
